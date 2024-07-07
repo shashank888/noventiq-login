@@ -1,0 +1,19 @@
+{
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "language":"भाषा",
+    "language_hi": "हिन्दी",
+    "validation": {
+      "email": {
+        "required": "ईमेल आवश्यक है।",
+        "invalidFormat": "अमान्य ईमेल प्रारूप।",
+        "domainRestriction": "ईमेल कॉर्पोरेट डोमेन से होना चाहिए।"
+      },
+      "password": {
+        "required": "पासवर्ड आवश्यक है।"
+      }
+    },  
+    "login": "लॉगिन",
+    "showPassword": "पासवर्ड दिखाएं"
+  }
+  

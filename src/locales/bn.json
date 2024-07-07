@@ -1,0 +1,18 @@
+{
+  "email": "ইমেইল",
+  "password": "পাসওয়ার্ড",
+  "language_bn": "বাংলা",
+  "language": "ভাষা",
+  "validation": {
+    "email": {
+      "required": "ইমেইল প্রয়োজন।",
+      "invalidFormat": "অবৈধ ইমেইল ফরম্যাট।",
+      "domainRestriction": "ইমেইলটি নোভেন্টিক বা অন্য কর্পোরেট ডোমেইন হতে হবে।"
+    },
+    "password": {
+      "required": "পাসওয়ার্ড প্রয়োজন।"
+    }
+  },
+  "login": "লগইন",
+  "showPassword": "পাসওয়ার্ড দেখুন"
+}

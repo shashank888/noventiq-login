@@ -1,0 +1,17 @@
+{
+  "email": "Email",
+  "validation": {
+    "email": {
+      "required": "Email is required.",
+      "invalidFormat": "Invalid email format.",
+      "domainRestriction": "Email should be corporate domains."
+    },
+    "password": {
+      "required": "Password is required."
+    }
+  },
+  "password": "Password",
+  "language": "Language",
+  "login": "Log in",
+  "showPassword": "Show Password"
+}

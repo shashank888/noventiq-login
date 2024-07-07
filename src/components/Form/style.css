@@ -1,0 +1,73 @@
+.main-login-conatiner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo {
+}
+.form-container {
+  max-width: 480px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
+.login-form {
+  width: 100%;
+}
+
+.form-container-inner{
+    padding: 20px 20px 0px 20px;
+    border: 1px solid;
+    margin-bottom: 15px;
+}
+
+.login-input {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  margin-bottom: 21px;
+}
+
+.form-label {
+  font-size: 15px;
+  font-weight: bold;
+  min-width: 80px;
+}
+
+.input-text {
+  width: 100% !important;
+  height: 50px;
+  margin: 0px !important;
+}
+
+.forgot-pass {
+  font-size: 13px;
+  text-decoration: underline;
+}
+
+.input-text .MuiInputBase-input {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
+
+.lang-select {
+  height: 43px;
+}
+
+
+
+.remeber-container {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+  gap: 20px;
+  align-items: center;
+}
+
+.remeber-text {
+    font-size: 13px;
+}
+
+.submit-button{display: flex;justify-content: center;}
